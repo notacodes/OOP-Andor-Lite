@@ -1,0 +1,15 @@
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\AndorOOP\bin\Debug\net8.0\AndorOOP.exe
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\AndorOOP\bin\Debug\net8.0\AndorOOP.deps.json
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\AndorOOP\bin\Debug\net8.0\AndorOOP.runtimeconfig.json
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\AndorOOP\bin\Debug\net8.0\AndorOOP.dll
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\AndorOOP\bin\Debug\net8.0\AndorOOP.pdb
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\AndorOOP\obj\Debug\net8.0\AndorOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\AndorOOP\obj\Debug\net8.0\AndorOOP.AssemblyInfoInputs.cache
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\AndorOOP\obj\Debug\net8.0\AndorOOP.AssemblyInfo.cs
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\AndorOOP\obj\Debug\net8.0\AndorOOP.csproj.CoreCompileInputs.cache
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\AndorOOP\obj\Debug\net8.0\AndorOOP.sourcelink.json
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\AndorOOP\obj\Debug\net8.0\AndorOOP.dll
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\AndorOOP\obj\Debug\net8.0\refint\AndorOOP.dll
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\AndorOOP\obj\Debug\net8.0\AndorOOP.pdb
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\AndorOOP\obj\Debug\net8.0\AndorOOP.genruntimeconfig.cache
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\AndorOOP\obj\Debug\net8.0\ref\AndorOOP.dll
